@@ -1,6 +1,6 @@
 /**
  * The BusinessLayer class provides business logic for customer-related operations
- * in the online library system. It interacts with the data layer to perform actions.
+ * in the online library system. It interacts with the data layer to perform actions
  */
 public class BusinessLayer {
     private DataLayer DataLayer;
