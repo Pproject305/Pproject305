@@ -1,4 +1,4 @@
-/**
+/*
  * The BusinessLayer class provides business logic for customer-related operations
  * in the online library system. It interacts with the data layer to perform actions
  */
